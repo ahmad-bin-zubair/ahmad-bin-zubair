@@ -7,8 +7,8 @@
 IT System & Network Administrator and Team Lead in Lahore, Pakistan. I look after the network, servers and security of a 700+ employee healthcare company, and I build the tools that let a small IT team run hundreds of PCs on autopilot.
 
 - 🛰️ **Network monitoring console** (Python · FastAPI · Docker · SNMPv3): watches 29 core devices, alerts in Microsoft Teams, and fixes an err-disabled switch port in one click.
-- 🔄 **Patch automation** (PowerShell + Tactical RMM API): 539 PCs in scope, 483 fully patched on the first run, **0 forced restarts**.
-- ✅ **Weekly software compliance** for 608 PCs: from 97.4% to 98.7% compliant.
+- 🔄 **Patch automation** (PowerShell + Tactical RMM API): 500+ PCs in scope, 90% fully patched on the first run, **0 forced restarts**.
+- ✅ **Weekly software compliance** for 600+ PCs: from 97.4% to 98.7% compliant.
 - 🌙 **Fleet shutdown** after the night shift: 150+ PCs, a 2-minute warning, and never during work hours.
 - 🛡️ Daily SOC work in **Wazuh SIEM**, plus Active Directory **Group Policy** hardening (48 policies audited, 15 fixed).
 
