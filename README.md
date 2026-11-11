@@ -10,7 +10,8 @@ IT System & Network Administrator and Team Lead in Lahore, Pakistan. I look afte
 - 🔄 **Patch automation** (PowerShell + Tactical RMM API): 500+ PCs in scope, 90% fully patched on the first run, **0 forced restarts**.
 - ✅ **Weekly software compliance** for 600+ PCs: from 97.4% to 98.7% compliant.
 - 🌙 **Fleet shutdown** after the night shift: 150+ PCs, a 2-minute warning, and never during work hours.
-- 🛡️ Daily SOC work in **Wazuh SIEM**, plus Active Directory **Group Policy** hardening (48 policies audited, 15 fixed).
+- 🛡️ Daily SOC work in **Wazuh SIEM**, and day-to-day **Active Directory** and **Group Policy** administration.
+- 📶 **UniFi Wi-Fi** managed from one console, and 📦 **Snipe-IT** asset tracking with automatic check-out emails.
 
 ### 🧰 Tools I use
 
