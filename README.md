@@ -4,7 +4,7 @@
 
 ### Hi, I'm Ahmad 👋
 
-IT System & Network Administrator in Lahore, Pakistan. I look after the network, servers and security of a 700+ employee healthcare company, and I build the tools that let a small IT team run hundreds of PCs on autopilot.
+IT System & Network Administrator (Team Management) in Lahore, Pakistan. I look after the network, servers and security of a 700+ employee healthcare company, and I build the tools that let a small IT team run hundreds of PCs on autopilot.
 
 - 🛰️ **Network monitoring console** (Python · FastAPI · Docker · SNMPv3): watches 29 core devices, alerts in Microsoft Teams, and fixes an err-disabled switch port in one click.
 - 🔄 **Patch automation** (PowerShell + Tactical RMM API): 500+ PCs in scope, 90% fully patched on the first run, **0 forced restarts**.
